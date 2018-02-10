@@ -6,7 +6,7 @@ Designed a Portfolio Template using various components of Material Design for Bo
 ![Alt text](/Portfolio/WebContent/img/my1.png?raw=true "Optional Title")
 
 
-![Alt text](/Portfolio/WebContent/img/my2.png?raw=true "Optional Title")
+![Alt text](/Portfolio/WebContent/img/my05.png?raw=true "Optional Title")
 
 
 ![Alt text](/Portfolio/WebContent/img/my3.png?raw=true "Optional Title")
